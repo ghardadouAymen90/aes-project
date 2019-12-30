@@ -77,7 +77,7 @@ export default function UploadButtons() {
 
     return (
         <div className={classes.root}>
-            <h1>Encrypt you file here</h1>
+            <h1 style={{fontSize:"40px"}}>Decrypt you file here</h1>
             <div>
                 <input
                     accept="*/*"
