@@ -13,7 +13,7 @@ import NoEncryptionIcon from '@material-ui/icons/NoEncryption';
 import './App.css';
 const useStyles = makeStyles(theme => ({
   styleGrid: {
-    paddingTop: "20px",
+    paddingTop: "30px",
     color: "#017575"
   },
   listStyle: {
@@ -24,7 +24,7 @@ const useStyles = makeStyles(theme => ({
     '& > * + *': {
       marginLeft: theme.spacing(20)
     },
-    fontSize: "20px",
+    fontSize: "24px",
     borderBottom: "0.5px grey solid",
     borderRadius: "5px"
   },
